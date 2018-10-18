@@ -7,7 +7,6 @@ Acoustic communication embedding data in high frequency of sound by FSK modulati
 #### step 2.record the sound wave with microphone
 #### step 2.execute rx.m to decode 
 
-```
 
 ## Example
 
